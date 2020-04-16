@@ -1,0 +1,68 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background: url('./background.png') no-repeat;
+	background-color: #352d47;
+	background-size: 100%;
+	padding: 0px;
+	margin: 0px;
+}
+
+.icon {
+    width: 16px;
+    height: 10px;
+}
+
+.block {
+	position: relative;
+	width: 94%;
+	box-shadow: 0 0 30px rgba(0,0,0,0.5);
+	/*height: 1000px;*/
+	margin: 3%;
+	margin-top: 70px;
+}
+
+header {
+	background: url('./ttback2.jpg') repeat-x;
+	/*background-color: #1b1142;*/
+	text-align: center;
+	margin: 0px;
+	margin-bottom: 
+}
+
+.title {
+	font-family: cursive;
+	color: #d3bfff;
+	font-size: 36px;
+	padding: 40px;
+	margin: 0px;
+}
+
+.astr-img {
+	float: left;
+	width: 300px;
+	margin: 50px;
+	margin-bottom: 45px;
+	margin-left: 5%;
+
+}
+
+.info {
+	position: relative;
+	width: 90%;
+	margin: 5%;
+	color: #d3bfff;
+	font-family: cursive;
+	text-align: justify;
+	padding-top: 45px;
+	padding-bottom: 45px;
+}
+
+.main {
+	position: relative;
+	float: left;
+	width: 5%;
+	margin: 2.5%;
+}
